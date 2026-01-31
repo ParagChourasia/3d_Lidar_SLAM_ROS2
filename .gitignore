@@ -12,11 +12,12 @@ __pycache__/
 *.log
 pose_graph.g2o
 
-# Data files (Large bag files and databases)
+# Data files (Large bag files, databases, and videos)
 src/li_slam_ros2/data/
 *.bag
 *.db3
 *.db3-journal
+*.mkv
 
 # IDEs
 .vscode/
