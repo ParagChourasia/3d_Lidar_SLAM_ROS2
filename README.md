@@ -1,6 +1,6 @@
 # 3D LiDAR SLAM ROS 2 (Humble)
 
-[![Link to Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](./src/li_slam_ros2/doc/li_slam.mkv)
+[![Link to Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/INpnnRNui2M)
 
 This repository contains a comprehensive ROS 2 Humble workspace for 3D LiDAR-Inertial SLAM. It integrates [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) with [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)'s IMU preintegration techniques to provide robust mapping and localization in real-time.
 
@@ -12,10 +12,7 @@ This repository contains a comprehensive ROS 2 Humble workspace for 3D LiDAR-Ine
 
 ## Demo
 A demo video of the SLAM system in action can be found here:
-**[View Demo Video (li_slam.mkv)](./src/li_slam_ros2/doc/li_slam.mkv)**
-
-> [!NOTE]  
-> The video file is approximately 166MB. You may need to download it to view it properly if the browser preview does not support the .mkv format.
+**[View Demo Video (YouTube)](https://youtu.be/INpnnRNui2M)**
 
 ## Installation
 
